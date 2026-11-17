@@ -1,6 +1,6 @@
 # Ocikley Fernandes  
 
-*``Desenvolvedor junor``*
+*``Desenvolvedor junior``*
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Desenvolvedor em formação  
